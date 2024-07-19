@@ -1,0 +1,17 @@
+Name,Mocked,Count,Min,Max,Avg
+Only Mock,True,15000,2,4,2.37
+Only Backend,False,15000,7,11,8.60
+Mock if found 100 CSV,True,15000,2,4,2.83
+Mock if found 100 CSV,False,15000,7,11,8.76
+Mock if found 370 CSV,True,15000,2,4,2.23
+Mock if found 370 CSV,False,15000,7,11,8.90
+Mock if found 100 Json,True,15000,3,4,3.15
+Mock if found 100 Json,False,15000,7,10,7.95
+Mock if found 370 Json,True,15000,2,3,2.26
+Mock if found 370 Json,False,15000,7,10,8.05
+Mock if found 100 policy fragment,True,15000,2,3,2.18
+Mock if found 100 policy fragment,False,15000,7,11,8.83
+Mock if found 370 policy fragment,True,15000,3,5,3.22
+Mock if found 370 policy fragment,False,15000,8,12,9.32
+Mock if found 1000 policy fragment,True,15000,2,5,3.42
+Mock if found 1000 policy fragment,False,15000,8,12,9.13
